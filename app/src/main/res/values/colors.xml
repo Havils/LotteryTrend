@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+
+    <color name="lottery_title_color">#ff222222</color>
+    <color name="trend_list_odd">#ffedecea</color>
+    <color name="trend_list_even">#ffe8e4de</color>
+    <color name="trend_line_odd_bg">#bff6f5f4</color>
+    <color name="trend_ball_blue">#ff6daced</color>
+    <color name="trend_ball_red">#ffdc6161</color>
+    <color name="trend_x_ball_blue">#ff6daced</color>
+    <color name="trend_x_ball_red">#ffdc6161</color>
+    <color name="trend_x_ball_stroke">#ffe8e8e8</color>
+    <color name="trend_x_blue_text">#ff177ffc</color>
+    <color name="trend_x_red_text">#fff03d3d</color>
+    <color name="trend_xtitle_bg">#ffdad2ca</color>
+    <color name="trend_max_count_color">#ff5d8adf</color>
+    <color name="trend_max_lianchu_bg">#fffef8e3</color>
+    <color name="trend_max_lianchu_color">#ff80756e</color>
+    <color name="trend_max_yilou_color">#ffd76969</color>
+    <color name="trend_avg_yilou_color">#ff6fb949</color>
+    <color name="trend_avg_yilou_bg">#ffe9f1dc</color>
+    <color name="trend_divider">#ffeaeaea</color>
+    <color name="trend_qihao_text">#fff8f5f2</color>
+    <color name="trend_content_yilou">#ff9e9e9e</color>
+</resources>
